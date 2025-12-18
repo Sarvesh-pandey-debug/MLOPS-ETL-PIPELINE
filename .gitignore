@@ -1,1 +1,6 @@
 venv
+mlruns/
+mlartifacts/
+**/mlruns/
+**/mlartifacts/
+*.pkl
