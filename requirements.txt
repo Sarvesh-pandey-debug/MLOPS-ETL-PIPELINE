@@ -1,0 +1,8 @@
+# mlflow
+# pandas
+# scikit-lear
+# keras
+# #tensorflow
+# #hyperopt
+# # dvc
+pytest
